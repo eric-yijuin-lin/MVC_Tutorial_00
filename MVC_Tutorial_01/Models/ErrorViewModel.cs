@@ -1,6 +1,6 @@
 using System;
 
-namespace MVC_Tutorial_01.Models
+namespace MVC_Tutorial_00.Models
 {
     public class ErrorViewModel
     {
