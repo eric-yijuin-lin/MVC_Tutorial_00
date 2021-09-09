@@ -44,7 +44,7 @@ namespace MVC_Tutorial_00.Controllers
             try
             {
                 _users.Add(model);
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("Index");
             }
             catch
             {
